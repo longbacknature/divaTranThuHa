@@ -8,15 +8,7 @@
 * Highest resonant belt: C#5
 * Highest mixed note: C6
 
-##I INTRODUCTION
-
+I) INTRODUCTION
       Một trong 4 diva của Việt Nam. Trần Thu Hà được sinh trưởng trong một gia đình "nhà nòi" khi cha cô là nghệ sĩ nhân dân Trần Hiếu, mẹ cô là nhà giáo Vũ Thúy Huyền, chú cô là nhạc sĩ Trần Tiến. Cô bắt đầu gây được tiếng vang với dự án âm nhạc Nhật Thực với những đổi mới trong phong cách âm nhạc, hòa âm, phối khí. Hiện tại, Trần Thu Hà ghi dấu ấn là một trong những giọng nữ cao có nền tảng kỹ thuật tốt và phong cách âm nhạc cực kỳ đa dạng trong làng nhạc Việt.
-================
 
-##Nội dung trình bày
-1. Các thẻ tiêu đề
-1. Đoạn văn bản
-1. Trình bày theo danh sách
-1. Liên kết
-1. Chèn hình ảnh
-1. Hiển thị code
+II) STRENGHTS AND WEAKNESSES
