@@ -1,11 +1,11 @@
 # Trần Thu Hà's Vocal Analysis
 
 * Voice type: Soprano
-* Vocal range: .[B2 giây 57](https://www.youtube.com/watch?v=ynt9piBsX9k&feature=youtu.be&t=57s) - C6 (3 octaves 1 semitone)
+* Vocal range: .[B2 - giây 40](https://github.com/tuiuvnopensource/divaTranThuHa/blob/master/common/VIETNAM%20IDOL%202015%20-%20T%E1%BA%ACP%2011%20-%20%20THU%20C%E1%BA%A0N.mp4) - C6 (3 octaves 1 semitone)
 * Supported range: G3 - C5/C#5
 * Supported range (có head voice): G3 - F#5/G5
-* Lowest/Highest supported note: Eb3 / C#5 / G5
-* Highest resonant belt: C#5
+* Lowest/Highest supported note: .[Eb3 - giây 35](https://github.com/tuiuvnopensource/divaTranThuHa/blob/master/common/M%C3%A2y%20-%20Thanh%20Lam%20%26%20H%C3%A0%20Tr%E1%BA%A7n%20-%20The%20Master%20of%20Symphony%202015%20(B%E1%BA%A3n%20%C4%91%E1%BA%B9p)%20-%20Vinhomes%20Li%E1%BB%85u%20Giai%200903235198.mp4) / .[C#5 - 4m36s](https://github.com/tuiuvnopensource/divaTranThuHa/blob/master/common/T%C3%ACnh%20ca%20-%20H%C3%A0%20Tr%E1%BA%A7n%20-%20Master%20of%20Symphony.mp4) / G5
+* Highest resonant belt: .[C#5 - 4m36s](https://github.com/tuiuvnopensource/divaTranThuHa/blob/master/common/T%C3%ACnh%20ca%20-%20H%C3%A0%20Tr%E1%BA%A7n%20-%20Master%20of%20Symphony.mp4)
 * Highest mixed note: C6
 ```sh
 I) INTRODUCTION
