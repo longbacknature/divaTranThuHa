@@ -1,12 +1,12 @@
 # Trần Thu Hà's Vocal Analysis
 
-Voice type: Soprano
-Vocal range: B2 - C6 (3 octaves 1 semitone)
-Supported range: G3 - C5/C#5
-Supported range (có head voice): G3 - F#5/G5
-Lowest/Highest supported note: Eb3 / C#5 / G5
-Highest resonant belt: C#5
-Highest mixed note: C6
+* Voice type: Soprano
+* Vocal range: B2 - C6 (3 octaves 1 semitone)
+* Supported range: G3 - C5/C#5
+* Supported range (có head voice): G3 - F#5/G5
+* Lowest/Highest supported note: Eb3 / C#5 / G5
+* Highest resonant belt: C#5
+* Highest mixed note: C6
 
 ##I INTRODUCTION
 
