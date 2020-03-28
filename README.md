@@ -16,7 +16,7 @@ Một trong 4 diva của Việt Nam. Trần Thu Hà được sinh trưởng tron
 ```sh
 II) STRENGHTS AND WEAKNESSES
 ```
-- Strengths
+__Strengths__
 * Có thể hát xuống tận B2 (note rất trầm với Soprano)
 * Phát triển khá đều các kỹ thuật
 * Đạt được resonance khá lớn từ G#4 tới B4
@@ -26,7 +26,14 @@ II) STRENGHTS AND WEAKNESSES
 * Head voice khá vang, placement linh hoạt và support ổn định đến G5 (còn khả năng có thể support cao hơn)
 * Xử lý bài hát tinh tế, có chiều sâu, truyền đạt cảm xúc ổn
 * Có thể hát nhiều thể loại với phong cách đa dạng, biến hóa
-- Weaknesses
+__Weaknesses__
+- Có xu hướng hạ thanh quản từ F#3 trở xuống
+- Có thể bị hạ thanh quản ngay tại G3 nhiều lần trong 1 bài hát
+- Điều khiển hơi thở rất mất kiểm soát khi vocal fatigue xuất hiện
+- Note tính từ C#5 trở lên thường bị strain khá nặng
+- Push rất nhiều kể từ Bb4 trở lên
+- Strain thậm chí có thể xuất hiện ở quãng trung và cao trong supported range
+- Vocal runs thường bị messy với những đoạn vocal runs trung bình - khó, note separation thường hơi mờ ở những đoạn vocal runs trung bình
 
 ```sh
 III) OVERALL ANALYSIS
