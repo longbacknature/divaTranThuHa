@@ -26,7 +26,7 @@ __Strengths__
 * Head voice khá vang, placement linh hoạt và support ổn định đến G5 (còn khả năng có thể support cao hơn)
 * Xử lý bài hát tinh tế, có chiều sâu, truyền đạt cảm xúc ổn
 * Có thể hát nhiều thể loại với phong cách đa dạng, biến hóa
-***
+<br>
 __Weaknesses__
 - Có xu hướng hạ thanh quản từ F#3 trở xuống
 - Có thể bị hạ thanh quản ngay tại G3 nhiều lần trong 1 bài hát
@@ -41,6 +41,6 @@ III) OVERALL ANALYSIS
 ```
 
 Là một trong 4 diva của Việt Nam, nếu nói về chất giọng, khi so 3 người còn lại thì rõ ràng chất giọng của Trần Thu Hà không nổi trội bằng. Cô không có chất lửa hừng hực như giọng hát của Thanh Lam, không có chất hàn lâm cùng sự nồng nàn như giọng hát của Mỹ Linh, cũng không có sự tinh tế và sự thuần khiết như giọng hát của Hồng Nhung. Chính Trần Thu Hà cũng từng thừa nhận điều này trên báo chí. Thế nên cô đã nổ lực để tìm ra hướng đi rất riêng phù hợp với bản thân mình, và đến bây giờ, khi nhắc đến Trần Thu Hà khán giả có thể dễ dàng nhớ đến một diva với phong cách cực kỳ biến hóa cùng những kỹ thuật tinh tế được đan cài khéo léo vào bài hát.
-\n <br> 
-```
-```
+<br>
+Nhìn lại trước đây trong phần trình diễn Lắng nghe mùa xuân về (2:10), có thể nghe thấy Trần Thu Hà chọn cách hát vô cùng heady, dù có support nhưng vẫn rất nông, kèm theo đó là nasality, throat tension, glotta tension, và resonance hoàn toàn không xuất hiện. Note A4 tại 2:32 hơi closed throat và có một chút throat tension, trong khi ba note B4 - C5 - D5 tại 2:36 đều strain. Sang đến phần trình diễn Tình yêu tôi hát với Bằng Kiều, Trần Thu Hà vẫn heady nhưng không còn heady như trước, đáng nói là ở quãng trầm cô cho thấy khả năng muscle coordination phù hợp cùng tập trung vào breath control. Và kết quả là những supported G3 đã có. Thế nhưng quãng trung và cao của Trần Thu Hà vẫn còn chưa đạt độ mở thích hợp và cô vẫn còn strain khá nhiều ở C5 tại 4:12. Đó là trước đây, nhưng càng về sau, Trần Thu Hà càng cho thấy nhiều sự tiến bộ trong kỹ thuật của mình.
+<br>
