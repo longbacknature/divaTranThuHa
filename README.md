@@ -26,7 +26,6 @@ __Strengths__
 * Head voice khá vang, placement linh hoạt và support ổn định đến G5 (còn khả năng có thể support cao hơn)
 * Xử lý bài hát tinh tế, có chiều sâu, truyền đạt cảm xúc ổn
 * Có thể hát nhiều thể loại với phong cách đa dạng, biến hóa
-<br>
 __Weaknesses__
 - Có xu hướng hạ thanh quản từ F#3 trở xuống
 - Có thể bị hạ thanh quản ngay tại G3 nhiều lần trong 1 bài hát
